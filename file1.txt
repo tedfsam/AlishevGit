@@ -1,4 +1,5 @@
 Hello world
 123456789
 Good evening (from branch master)
-Change from user1
+Change from user1 
+Line from user1
