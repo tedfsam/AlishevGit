@@ -1,0 +1,68 @@
+[33mcommit 084db111e30ad3f6a21a3d09459328f6351470d5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Andrey Sterlyadev <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 17:21:36 2022 +0300
+
+    change on master branch
+
+[33mcommit 0aacc47c2a2d04b07bdf28a867ec30de1bbf6c75[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9a08613 6e994e3
+Author: Andrey Sterlyadev <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 15:56:25 2022 +0300
+
+    Merge branch 'master' of https://github.com/tedfsam/AlishevGit
+
+[33mcommit 9a0861348fa622df0cb1154f8b57de40f955d5d0[m
+Author: Andrey Sterlyadev <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 15:55:22 2022 +0300
+
+    Change from user1
+
+[33mcommit 6e994e3fad21aff380a5aba50ad8615644a02eff[m
+Author: Andrey Sterlyadev <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 15:54:12 2022 +0300
+
+    Change user2
+
+[33mcommit b432ccb0b9f2464e7efbaff6d34d34ea4c59fc5a[m
+Author: Andrey Sterlyadev <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 15:49:50 2022 +0300
+
+    add lint int gile2
+
+[33mcommit fd77d26ecc548da0ca63e1a22e0c446a057d1720[m
+Author: Andrey Sterlyadev <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 12:51:31 2022 +0300
+
+    add file3 and change file1
+
+[33mcommit 891b68debe63c9355ea97597eaf6ddf7783e1246[m
+Author: Andrey Sterlyadev <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 12:15:57 2022 +0300
+
+    change file1:
+    
+    Changes to be committed:
+
+[33mcommit 9a35faa269d4474f85d07d040ab28cb07237dac3[m
+Author: Andrey Sterlyadev <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 11:16:51 2022 +0300
+
+    return file1 to origins
+
+[33mcommit 01025dc137d1184ce4c2bb757e6fd702519c9ed8[m
+Author: Andrey <sterlyadev.av@gmail.com>
+Date:   Fri Oct 28 10:29:51 2022 +0300
+
+    change file2
+
+[33mcommit e413f6b72810f412400820911c0624e855de8f2f[m
+Author: Andrey <sterlyadev.av@gmail.com>
+Date:   Thu Oct 27 18:45:04 2022 +0300
+
+    Change file1 and add file2
+
+[33mcommit 00fe69124e6e9d6d0704b4bfb6602ffe318f0a4d[m
+Author: Andrey <sterlyadev.av@gmail.com>
+Date:   Thu Oct 27 18:37:26 2022 +0300
+
+    Add file1
