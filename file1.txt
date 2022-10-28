@@ -1,5 +1,7 @@
 Hello world
 123456789
-Good evening (from branch master)
-Change from user1 
-Line from user1
+
+Good bye
+Change from user1
+Line from user2
+>>>>>>> 22e47650305aee0a494e5448ef19a8e2a6123dc2
