@@ -8,4 +8,5 @@ Line from user2
 
 Line from user1 - lesson about rebase
 
+<<<<<<< HEAD
 Line from user1 branch master - lesson about rebase with branch
