@@ -7,3 +7,5 @@ Line from user2
 >>>>>>> 22e47650305aee0a494e5448ef19a8e2a6123dc2
 
 Line from user1 - lesson about rebase
+
+Line from user1 branch master - lesson about rebase with branch
