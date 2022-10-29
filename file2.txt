@@ -2,3 +2,5 @@ Good bye!
 Some other string
 New string
 Change critical error
+
+Line from user2 - lesson rebase 
